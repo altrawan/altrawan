@@ -7,7 +7,7 @@
 
 💬 Ask me about programming world, simple or advanced.
 
-📫 How to reach me: just dm me on <a href="#" link="_blank"><b>discord<b></a> or email me at <a a href="mailto:altrawan@gmail.com><b>altrawan@gmail.com</b></a>.
+📫 How to reach me: just dm me on <a href="#" link="_blank"><b>discord</b></a> or email me at <a href="mailto:altrawan@gmail.com"><b>altrawan@gmail.com</b></a>.
 
 :clapper: Outside of tech world too, I love watching latest movies, listening to spotify playlists and playing badminton.
   
