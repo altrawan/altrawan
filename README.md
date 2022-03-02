@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nur Muhammad Alif Putra Setiawan</h1>
 <h3 align="center">A passionate Full Stack Developer, currently training at Pijarcamp.</h3>
 
-- 🌱 I’m currently learning **python, ruby and mongo db**
+- 🌱 I’m currently learning **react, express and next.js**
 
-- 💬 Ask me about **react, express and react native**
+- 💬 Ask me about **Java, C# and .Net**
 
 - 📫 How to reach me **altrawan@gmail.com**
 
