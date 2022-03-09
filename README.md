@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java, C# and .Net**
 
-- 📫 How to reach me **altrawan@gmail.com**
+- 📫 How to reach me **muhammadalifputra8888@gmail.com**
 
 - :clapper: Outside of tech world too, I love watching latest movies, listening to spotify playlists and playing badminton.
 
