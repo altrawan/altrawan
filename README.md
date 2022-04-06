@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **CSS and react.js**
 
-- 🤝 I’m looking for help with **Frontend**
+- 🤝 I’m looking for help with **Front-end developer**
 
 <!-- - 📝 I regularly write articles on [https://medium.com/@altrawan](https://medium.com/@altrawan)-->
 
