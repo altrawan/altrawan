@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nur Muhammad Alif Putra Setiawan</h1>
 <h3 align="center">A passionate Full Stack Developer, currently training at Pijarcamp.</h3>
 
-- 🌱 I’m currently learning **CSS and Build Responsive Website**
+- 🌱 I’m currently learning **React and Build Responsive Website**
 
 - 🤝 I’m looking for help with **Front-end developer**
 
