@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nur Muhammad Alif Putra Setiawan</h1>
 <h3 align="center">A passionate Full Stack Developer, currently training at Pijarcamp.</h3>
 
-- 🌱 I’m currently learning **React and Build Responsive Website**
+- 🌱 I’m currently learning **Fullstack developer**
 
-- 🤝 I’m looking for help with **Front-end developer**
+- 🤝 I’m looking for help with **Fullstack developer**
 
 <!-- - 📝 I regularly write articles on [https://medium.com/@altrawan](https://medium.com/@altrawan)-->
 
-- 💬 Ask me about **Javascript, node.js and express.js**
+- 💬 Ask me about **Javascript, React.js, Express.js**
 
 - 📫 How to reach me **muhammadalifputra8888@gmail.com**
 
