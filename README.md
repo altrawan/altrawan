@@ -7,7 +7,7 @@
 
 <!-- - 📝 I regularly write articles on [https://medium.com/@altrawan](https://medium.com/@altrawan)-->
 
-- 💬 Ask me about **Javascript, React.js, Express.js**
+- 💬 Ask me about **Javascript, React.js, Express.js and Next.js**
 
 - 📫 How to reach me **muhammadalifputra8888@gmail.com**
 
