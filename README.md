@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nur Muhammad Alif Putra Setiawan</h1>
-<h3 align="center">A passionate full stack developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
 - 🔭 I’m currently working on [NFT Marketplace](https://github.com/Wala-Wele-Team)
 
