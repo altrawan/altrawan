@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nur Muhammad Alif Putra Setiawan</h1>
 <h3 align="center">A passionate full stack developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [NFT Marketplace](https://github.com/BlackCodeID/Village-Wale-FE)
+- 🔭 I’m currently working on [NFT Marketplace](https://github.com/Wala-Wele-Team)
 
 - 🌱 I’m currently learning **Laravel, Vue and Realtime Application**
 
-- 👯 I’m looking to collaborate on [NFT Marketplace](https://github.com/BlackCodeID/Village-Wale-FE)
+- 👯 I’m looking to collaborate on [NFT Marketplace](https://github.com/Wala-Wele-Team)
 
-- 🤝 I’m looking for help with [UI/UX Designer](https://github.com/BlackCodeID/Village-Wale-FE)
+- 🤝 I’m looking for help with [UI/UX Designer](https://github.com/Wala-Wele-Team)
 
 - 👨‍💻 All of my projects are available at [https://altrawan.vercel.app/projects](https://altrawan.vercel.app/projects)
 
