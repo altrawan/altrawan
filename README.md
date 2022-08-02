@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [UI/UX Designer](https://github.com/BlackCodeID/Village-Wale-FE)
 
-- 👨‍💻 All of my projects are available at [https://altrawan.vercel.app/projects)
+- 👨‍💻 All of my projects are available at [https://altrawan.vercel.app/projects](https://altrawan.vercel.app/projects)
 
 - 💬 Ask me about **react, express.js and java**
 
