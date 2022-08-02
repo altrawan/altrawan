@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with [UI/UX Designer](https://github.com/BlackCodeID/Village-Wale-FE)
 
-- 👨‍💻 All of my projects are available at [https://altrawan.vercel.app/](https://altrawan.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://altrawan.vercel.app/projects)
 
 - 💬 Ask me about **react, express.js and java**
 
 - 📫 How to reach me **muhammadalifputra8888@gmail.com**
 
-- 📄 Know about my experiences [https://altrawan.vercel.app/](https://altrawan.vercel.app/)
+- 📄 Know about my experiences [https://altrawan.vercel.app/about](https://altrawan.vercel.app/about)
 
 - ⚡ Fun fact **Fun fact Astrophile philloveope and my dream goes to the moon 🌕**
 
